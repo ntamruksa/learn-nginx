@@ -9,10 +9,10 @@ app.get('/api', (req, res) => {
     message: 'Ahoy!',
     users: [{
       id: 1,
-      name: 'John Doe'
+      name: 'Noodee Tamruksa'
     }, {
       id: 2,
-      name: 'Chuck Norris'
+      name: 'Momo Tamruksa'
     }]
   })
 })
